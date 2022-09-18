@@ -1,3 +1,3 @@
 class User < ActiveRecord::Base
-    has_many :email
+    belongs_to :user
   end
