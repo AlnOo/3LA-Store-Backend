@@ -93,7 +93,6 @@ GEM
     zeitwerk (2.6.0)
 
 PLATFORMS
-  x86_64-darwin-19
   x86_64-linux
 
 DEPENDENCIES
@@ -114,5 +113,8 @@ DEPENDENCIES
   sinatra-contrib (~> 2.2, >= 2.2.2)
   thin (~> 1.8)
 
+RUBY VERSION
+   ruby 2.7.4p191
+
 BUNDLED WITH
-   2.2.23
+   2.3.21

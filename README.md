@@ -4,6 +4,9 @@
 
 This is an API project. It has users and bookings routes with the relevant http requests. It is a Ruby sinatra project. It has postgresql as the database. The data is being fetched by a React client to perform the various http verbs like post, patch, get and delete.
 
+heroku - https://store-3la-server.herokuapp.com/
+Frontend Repository - https://github.com/AlnOo/3LA-Store-Frontend
+
 ## Known Bugs
 
 There are no known bugs.
@@ -17,7 +20,7 @@ Heroku - For hosting and deploying
 ### Backend Setup
 
 This repository has all the code needed to get a Sinatra backend up and
-running for 3LA Store React frontend. 
+running for 3LA Store React frontend.
 
 Run `bundle install` to install the gems.
 
@@ -34,5 +37,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-(C) Stanley Mayore, 2022
-
+(C) Allan Odhiambo, 2022
